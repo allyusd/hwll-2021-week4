@@ -31,7 +31,7 @@
       margin-bottom: 48px;
     }
     ul {
-      width: 1110px;
+      width: $content-width;
       display: flex;
       justify-content: space-between;
       margin: 0 auto;
@@ -75,7 +75,7 @@
         margin-bottom: 40px;
       }
       ul {
-        width: 1110px;
+        width: $content-width;
         margin: 0 auto;
         li {
           // width: 300px;
@@ -118,7 +118,7 @@
         margin-bottom: 40px;
       }
       ul {
-        width: 1110px;
+        width: $content-width;
         display: flex;
         justify-content: space-between;
         margin: 0 auto;
@@ -153,7 +153,7 @@
       margin-bottom: 40px;
     }
     ul {
-      width: 1110px;
+      width: $content-width;
       display: flex;
       justify-content: space-between;
       margin: 0 auto;
